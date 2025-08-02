@@ -3,6 +3,7 @@
 - Graduate student at Seoul National University
 - Field of interest:
   - Under Display Camera
+  - Image/video Dataset construction
   - Image Restoration
   - Generative models
  
