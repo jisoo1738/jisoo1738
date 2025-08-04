@@ -10,8 +10,8 @@
 ## Publications
 [ICCV] **UDC-VIT: A Real-World Video Dataset for Under-Display Cameras.**   
 Kyusu Ahn, **JiSoo Kim**, Sangik Lee, HyunGyu Lee, Byeonghyun Ko, Chanwoo Park, and Jaejin Lee. 
-In Proceedings of the IEEE/CVF International Conference on Computer Vision, Honolulu, Hawai’i, USA, October 2025. To appear. 🏅Spotlight Paper.  
-[[arXiv]](https://arxiv.org/abs/2501.18545)] [[Project site](https://mcrl.github.io/UDC)]
+In Proceedings of the IEEE/CVF International Conference on Computer Vision, Honolulu, Hawai’i, USA, October 2025. To appear. 🏅Highlight Paper.  
+[[arXiv](https://arxiv.org/abs/2501.18545)] [[Project site](https://mcrl.github.io/UDC)]
 
 **Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration.**  
 Kyusu Ahn, Jinpyo Kim, Chanwoo Park, **JiSoo Kim**, and Jaejin Lee.  
