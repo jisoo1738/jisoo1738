@@ -37,32 +37,32 @@ Delivered lectures on Python and C programming, providing foundational data scie
 
 
 ## Projects
+
 **YOCO: You Only Cook Once**  
-_2nd Place Award, Ambient AI Competition_  
-Seoul National University Graduate School of Data Science (22.12 ~ 23.03)  
+_Seoul National University Graduate School of Data Science (Dec 2022 – Mar 2023)_  
+_2nd Place Award, Ambient AI Competition_ 🥈     
 YOCO is a cooking assistant AI developed with the Unbiased-Teacher v2 framework. It predicts the doneness of ingredients, making cooking easier and more convenient for users.  
 [Project site](https://github.com/SNU-YOCO/YOCO) | [Demo Video](https://youtu.be/nylaXRa7xTk?si=EuNJ2xkx2pxYAtpD)  
 
 **E4/7**  
-_1st Place Award, 2021-2 Creative Learning Community_  
-_2nd Place Award, 10th SW·AI Hackathon_  
-Sejong University (21.09 ~ 22.07)
+_Sejong University (Sep 2021 – Jul 2022)_  
+_1st Place Award, 2021-2 Creative Learning Community_ 🏆  
+_2nd Place Award, 10th SW·AI Hackathon_ 🥈    
 E4/7 is a real-time AI web platform for remote exam management. Leveraging computer vision technologies such as OCR and pose detection, the service automates the entire examination workflow—from candidate check-in to the grading and organization of handwritten answers.  
 [Project site](https://github.com/E4-7) | [Demo Video1](https://youtu.be/VMCRFsKPW48) | [Demo Video2](https://youtu.be/d06-pK4OCiM) 
 
----
 **SLACK for ME**  
-Seoul National University Graduate School of Data Science (23.09 ~ 23.12)  
-Developed a Retrieval-Augmented Generation(RAG) based Slack chatbot that enables efficient information retrieval through both keyword and similarity-based search, without the need to store the entirety of Slack content.  
+Seoul National University Graduate School of Data Science (Sep 2023 – Dec 2023)  
+Developed a Retrieval-Augmented Generation (RAG) based Slack chatbot that enables efficient information retrieval through both keyword and similarity-based search, without the need to store the entirety of Slack content.  
 [Paper](Projects/Slack_for_me/Personalized_Chatbot_Service_for_GSDS_Slack_Users.pdf) | [Slides](Projects/Slack_for_me/BKMS2_pj.pdf) | [Demo Video](https://youtu.be/EzfCC3uzGkY)
 
 **Go Together: 같이가요**  
-Seoul National University Graduate School of Data Science (23.03 ~ 23.07)    
+Seoul National University Graduate School of Data Science (Mar 2023 – Jul 2023)  
 A platform for quickly and easily matching event companions based on user preferences, built with Python, Django, PostgreSQL, and Neo4j.  
 [Demo Video](https://youtu.be/qLgDpgDTRYc?si=dpcyN57JdqdBlMeK&t=1509)  
 
 **4K**  
-Sejong University (21.09 ~ 22.07)  
+Sejong University (Sep 2021 – Jul 2022)  
 4K is an AI-powered web service designed for military and law enforcement use, capable of accurately identifying specific individuals even when the lower part of their face is covered by a mask.  
 [Demo Video](https://youtu.be/TfUcGMA7Zz0) 
 
