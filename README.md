@@ -26,11 +26,6 @@ IMID 2024: Twenty-fourth International Meeting on Information Display, Jeju, Rep
 _Ambient AI Competition – 2nd Place Award_  
 Seoul National University Graduate School of Data Science (Jan 2023)  
 YOCO is a cooking assistant AI developed with the Unbiased-Teacher v2 framework. It predicts the doneness of ingredients, making cooking easier and more convenient for users.  
-
-
-
-
-
 [GitHub](https://github.com/SNU-YOCO/YOCO) | [Demo Video](https://youtu.be/nylaXRa7xTk?si=EuNJ2xkx2pxYAtpD)
 <!--
 **jisoo1738/jisoo1738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
