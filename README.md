@@ -1,5 +1,6 @@
 ## Overview
 - Name: Jisoo Kim
+- E-mail: jisoo.kim@snu.ac.kr
 - Graduate student at Seoul National University
 - Field of interest:
   - Computer vision
@@ -76,6 +77,10 @@ _Sejong University (Sep 2021 – Jul 2022)_
 4K is an AI-based web service designed for military and law enforcement use, capable of accurately identifying specific individuals even when the lower part of their face is covered by a mask.  
 [Demo Video](https://youtu.be/TfUcGMA7Zz0) 
 
+
+## Qualifications
+**OPIC** _(Aug 2024)_ - IH    
+**TOEIC** _(Aug 2022)_ - 930
 
 
 
