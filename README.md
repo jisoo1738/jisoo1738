@@ -21,6 +21,18 @@ Kyusu Ahn, Jinpyo Kim, Chanwoo Park, **JiSoo Kim**, and Jaejin Lee.
 **Jisoo Kim**, Kyusu Ahn, and Jaejin Lee.  
 IMID 2024: Twenty-fourth International Meeting on Information Display, Jeju, Republic of Korea, August 2024.
 
+## Experience
+
+**SNU Center for Optimizing Hyperscale AI Models and Platforms**  
+_Research Assistant (Mar 2025 – Present)_
+
+**DeepLearning.AI Courses**  
+_Korean Translator_  
+Contributed to Korean translation and subtitle synchronization for courses including "ChatGPT Prompt Engineering for Developers" and "Building Systems with the ChatGPT API."
+
+**CIT Code Academy**  
+_Instructor (Dec 2022 – Sep 2023)_  
+Delivered lectures on Python and C programming, providing foundational data science education using Google Colab and Kaggle.
 
 
 
