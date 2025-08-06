@@ -6,6 +6,15 @@
   - Image/video Dataset construction
   - Image Restoration
   - Generative models
+
+## Education
+**Seoul National University**     
+M.S. in Data Science _(Mar 2023 - Feb 2025)_  
+Advisor: Prof. Jaejin Lee
+
+**Sejong University**    
+B.S. in Intelligent Mechatronics Engineering _(Mar 2019 - Feb 2023)_
+
  
 ## Publications
 [ICCV] **UDC-VIT: A Real-World Video Dataset for Under-Display Cameras.**   
