@@ -2,6 +2,7 @@
 - Name: Jisoo Kim
 - Graduate student at Seoul National University
 - Field of interest:
+  - Computer vision
   - Under Display Camera
   - Image/video Dataset construction
   - Image Restoration
